@@ -1,0 +1,14 @@
+{
+    "name": "conkhidan/soft-deletes-flag",
+    "description": "Soft Deletes Flag",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LongDinh",
+            "email": "conkhidan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
